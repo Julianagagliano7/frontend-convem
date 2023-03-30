@@ -1,0 +1,51 @@
+@charset "UTF-8"; 
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&display=swap');
+
+
+:root {
+  --title: 'Courier Prime', monospace;
+  --text: 'IBM Plex Mono', monospace; 
+}
+
+ .container {
+  background-color: #102E61;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin: 10px 40px 10px 40px;
+  border: 2px 2px black;
+  border-radius: 16px;
+} 
+
+.chield {
+  padding: 10px;
+}
+
+h1 {
+  font-family: var(--title);
+  color: azure;
+  padding: 10px;
+}
+
+.input {
+  background-color: azure;
+  border-radius: 10px;
+  height: 20px; 
+}
+
+button {
+  font-family: var(--text);
+  font-size: 18px;
+  border-radius: 10px;
+  padding: 10px;
+  margin-left: 5px;
+}
+
+p {
+  font-family: var(--text);
+  font-size: 20px;
+  color: azure;
+  padding: 10px;
+}
