@@ -22,4 +22,6 @@ Prazo de Entrega: 31/03/23 ✅
 
 ![4](https://user-images.githubusercontent.com/100320068/228827822-7caf29e3-dbfc-47c7-a58b-b4683562401c.png)
 
+## Atenção! ⚠️ 
 
+É necessário dar um 'npm install' ao clonar este repositório, para obter de forma completa todas as instalações imprescindíveis para o funcionamento adequado da aplicação.  
