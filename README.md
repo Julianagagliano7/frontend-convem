@@ -1,27 +1,25 @@
-# ProjetoAngular
+# Desafio Convem 🔥🎯
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
 
-## Development server
+## Descrição:
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Construa (do zero) em Angular (angular.io) uma aplicação que na tela principal exiba o texto "Você quer se juntar ao time da Convem?", um campo para preenchimento e um botão para confirmação.
 
-## Code scaffolding
+Ao clicar no botão de confirmação, você deve chamar uma API que retorne sucesso no caso da resposta "SIM" (não importa se maiúsculo ou minúsculo) e "Erro" no caso de qualquer outra resposta.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Em caso de sucesso, exiba na tela o texto "Você está mais próximo de se juntar ao time!". Exiba "Erro" em qualquer outro caso.
 
-## Build
+Toda lógica deverá ser constrída dentro do backend de acordo com a API POST construída em qualquer linguagem e framework. 
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Prazo de Entrega: 31/03/23 ✅
 
-## Running unit tests
+## Imagens - SPA 📷: 
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+![1](https://user-images.githubusercontent.com/100320068/228826802-2bb2c4db-c231-47e9-9eff-54f88acae3d0.png)
 
-## Running end-to-end tests
+![2](https://user-images.githubusercontent.com/100320068/228827399-215841c8-68a8-49ad-a569-114f70c927d6.png)
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+![4](https://user-images.githubusercontent.com/100320068/228827822-7caf29e3-dbfc-47c7-a58b-b4683562401c.png)
 
-## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
